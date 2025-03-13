@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">My name is Doan Duc Dai</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm an alumnus of HUFLIT University<br>🎯 Goals: Game Developer</p>
+<h2 align="left">My name is Doan Duc Dai</h2>
 
 ###
 
@@ -18,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
