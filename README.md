@@ -1,4 +1,4 @@
-<h1 align="left">👋 What's up? My name is Doan Duc Dai</h1>
+<h1 align="center">👋 What's up? My name is Doan Duc Dai 👋</h1>
 
 ###
 
