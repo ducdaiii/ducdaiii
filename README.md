@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">What's I use?</h2>
+<h2 align="center">What's I learn and use?</h2>
 
 ###
 
