@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm an alumnus of HUFLIT University<br>🎯 Goals: Game Devaloper</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm an alumnus of HUFLIT University<br>🎯 Goals: Game Developer</p>
 
 ###
 
